@@ -1,2 +1,2 @@
 # Image-Blur-Detection
-This is a kersa implementation of Image-Blur-Detection using deep learning
+This is a keras implementation of Image-Blur-Detection using deep learning
